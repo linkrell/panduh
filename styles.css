@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: #191919;
-  --secondary-color: #34157a;
+  --secondary-color: #bf3900;
   --secondary-color-dark: #bf3900;
   --text-dark: #191919;
   --text-light: white;
@@ -205,7 +205,7 @@ footer {
   align-items: flex-start;
   gap: 1rem;
   padding: 2rem;
-  background-color: #121b79;
+  background-color: #0e0f11;
   border-radius: 5px;
 }
 
