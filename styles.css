@@ -46,12 +46,12 @@ img {
 }
 
 .btn {
-  padding: 1rem;
+  padding: 2rem;
   font-size: 0.9rem;
   font-weight: 600;
   outline: none;
   border: none;
-  border-radius: 5px;
+  border-radius: 30px;
   color: var(--white);
   background-color: var(--secondary-color);
   cursor: pointer;
